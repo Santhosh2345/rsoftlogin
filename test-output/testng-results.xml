@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T18:05:29 IST" name="Default suite" finished-at="2022-07-19T18:06:17 IST" duration-ms="47922">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T18:05:29 IST" name="Default test" finished-at="2022-07-19T18:06:17 IST" duration-ms="47922">
+      <class name="login.loginwithmultipledata">
+        <test-method signature="f()[pri:0, instance:login.loginwithmultipledata@99a78d7]" started-at="2022-07-19T18:05:29 IST" name="f" finished-at="2022-07-19T18:06:17 IST" duration-ms="47866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- login.loginwithmultipledata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
